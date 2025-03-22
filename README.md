@@ -45,7 +45,7 @@ Entre na pasta `src`
 Execute o seguinte comando:
 
 ```bash
-javac ContaTerminal.java -d ../out/production/ContaDigital
+javac Main.java -d ../out/production/ContaDigital
 ```
 
 Pronto, já deve ser possível realizar os passos anteriores
