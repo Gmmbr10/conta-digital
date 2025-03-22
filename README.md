@@ -15,7 +15,7 @@ O Conta Digital é um projeto realizado durante o Bootcamp Bradesco Java Cloud N
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Gmmbr10/banco-digital.git ContaDigital
+  git clone https://github.com/Gmmbr10/conta-digital.git ContaDigital
 ```
 
 Entre no diretório do projeto
